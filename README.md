@@ -1,5 +1,13 @@
-### Hi there 👋
- 🌱 I’m currently learning C#
+  ::::::::   ::::::::  :::::::::  :::::::::: 
+:+:    :+: :+:    :+: :+:    :+: :+:        
++:+        +:+    +:+ +:+    +:+ +:+        
++#+        +#+    +:+ +#+    +:+ +#++:++#   
++#+        +#+    +#+ +#+    +#+ +#+        
+#+#    #+# #+#    #+# #+#    #+# #+#        
+ ########   ########  #########  ########## 
+ 
+     🌱 I’m currently learning C#
+
 <!--
 **platais/platais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
