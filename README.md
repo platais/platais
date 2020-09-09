@@ -13,6 +13,8 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
   <img src=https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg alt=jquery width="40" height="40"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
+  <img src=https://devicon.dev/devicon.git/icons/php/php-original.svg alt=php width="40" height="40"/>
+ 
 </p>
 <!--
 **platais/platais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
